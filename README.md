@@ -23,6 +23,6 @@ project:
     author:
         - Kumar, Saurabh  
 
-    url: https://github.com/saurabhkumar04/Housing-Sale-Price-Prediction-
+    url: https://github.com/saurabhkumar04/Housing-Sale-Price-Prediction/blob/master/House_Prices2.ipynb
     type: project
     chapter: Prediction
